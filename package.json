@@ -2,6 +2,7 @@
   "name": "expensify",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mykotlinapps.github.io/expencify/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -11,13 +12,16 @@
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
+    "redux": "^4.0.5",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy" : "yarn build",
+    "deploy" : "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
