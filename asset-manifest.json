@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/expencify/static/css/main.2d527c8a.chunk.css",
+    "main.js": "/expencify/static/js/main.24dda72e.chunk.js",
+    "main.js.map": "/expencify/static/js/main.24dda72e.chunk.js.map",
+    "runtime-main.js": "/expencify/static/js/runtime-main.4996f81d.js",
+    "runtime-main.js.map": "/expencify/static/js/runtime-main.4996f81d.js.map",
+    "static/js/2.157cb4e0.chunk.js": "/expencify/static/js/2.157cb4e0.chunk.js",
+    "static/js/2.157cb4e0.chunk.js.map": "/expencify/static/js/2.157cb4e0.chunk.js.map",
+    "index.html": "/expencify/index.html",
+    "static/css/main.2d527c8a.chunk.css.map": "/expencify/static/css/main.2d527c8a.chunk.css.map",
+    "static/js/2.157cb4e0.chunk.js.LICENSE.txt": "/expencify/static/js/2.157cb4e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4996f81d.js",
+    "static/js/2.157cb4e0.chunk.js",
+    "static/css/main.2d527c8a.chunk.css",
+    "static/js/main.24dda72e.chunk.js"
+  ]
+}
